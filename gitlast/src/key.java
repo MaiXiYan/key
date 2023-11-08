@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//实现简单密码管理系统
 public class key {
     public static void main(String[] args) {
 
